@@ -42,7 +42,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/fizzyizzy05/binary",
-                    "tag" : "4.0"
+                    "tag" : "5.0"
                 }
             ]
         }
